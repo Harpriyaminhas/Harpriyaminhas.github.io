@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Research - Harpriya Minhas</title>
+<meta name="description" content="Harpriya Minhas - AI and machine learning for materials discovery. Postdoctoral Research Fellow, Materialyze.AI Lab, National University of Singapore.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css?v=20261110b">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<meta property="og:title" content="Harpriya Minhas - AI and machine learning for materials discovery">
+<meta property="og:description" content="Postdoctoral Research Fellow, Materialyze.AI Lab, National University of Singapore. Foundation potentials, bonding-aware ML, thermal transport and generative materials design.">
+<meta property="og:image" content="https://harpriyaminhas.github.io/assets/img/profile.jpg">
+<meta property="og:url" content="https://harpriyaminhas.github.io">
+<meta name="twitter:card" content="summary">
+</head><body>
+<nav><div class="wrap"><a class="brand" href="index.html">Harpriya Minhas</a><ul><li><a href="index.html">About</a></li><li><a href="research.html" class="active">Research</a></li><li><a href="publications.html">Publications</a></li><li><a href="projects.html">Code &amp; data</a></li></ul></div></nav>
+<main class="wrap">
+<h2 style="margin-top:2rem">Research</h2>
+
+<p>My research combines electronic-structure theory with artificial intelligence to understand why materials show the properties they do, and to build machine-learning models that search materials space quickly without losing physical meaning. The work falls into the areas below.</p>
+
+<p class="areas-toc"><a href="#r1">Generative Models for Inverse Design</a> &middot; <a href="#r2">Machine-Learning Interatomic Potentials</a> &middot; <a href="#r3">Explainable Artificial Intelligence</a> &middot; <a href="#r4">Phonons and Thermal Transport</a> &middot; <a href="#r5">Thermoelectrics</a> &middot; <a href="#r6">Catalysis</a> &middot; <a href="#r7">Collaborations</a></p>
+
+<section class="rtheme" id="r1"><h3>1. Generative Models for Inverse Design</h3>
+<p>Known compounds cover only a small part of the space of possible materials. Generative models such as the
+CrystaLLM crystal language model can propose new structures, but most generated candidates are unstable or
+duplicates. My approach couples generation with fast and reliable filters: candidates are relaxed with
+machine-learning potentials, checked for duplicates and kept only if they are dynamically stable. Cross-property
+transfer learning and machine-learning-driven dopant design then predict the target property, which turns
+generation into a practical route to new functional materials.</p>
+<img src="assets/img/res_generative.jpg" alt="Generative screening funnel">
+<p class="selpapers"><a href="https://doi.org/10.1021/acsami.6c10770">ACS Appl. Mater. Interfaces 2026</a> &middot; <a href="https://doi.org/10.1021/acsaelm.4c00808">ACS Appl. Electron. Mater. 2024</a></p></section>
+
+<section class="rtheme" id="r2"><h3>2. Machine-Learning Interatomic Potentials</h3>
+<p>Machine-learning interatomic potentials give near-DFT accuracy at a small fraction of the cost, which makes
+long simulations of large and complex systems possible. My work covers the main families of these models: moment
+tensor potentials (MTP), equivariant and graph-network potentials such as MACE, CHGNet, M3GNet, SevenNet and
+TensorNet, and universal foundation potentials such as MatterSim, QET and GRACE. A central question is reliability:
+models trained mostly on ideal crystals are tested on defects, transition states and strongly anharmonic lattices,
+improved with targeted data chosen by DIRECT sampling and active learning, and distilled into fast MTP and ACE
+potentials. Applications range from phonons and heat transport to hydrogen and helium in refractory high-entropy
+alloys for fusion reactors.</p>
+<img src="assets/img/res_kL_parity.jpg" alt="Thermal conductivity from universal potentials versus DFT">
+<p class="selpapers"><a href="https://doi.org/10.1039/d5ta08916f">J. Mater. Chem. A 2026</a> &middot; <a href="https://doi.org/10.1021/acs.jpclett.5c00952">J. Phys. Chem. Lett. 2025</a> &middot; <a href="https://doi.org/10.1039/d3ta07461g">J. Mater. Chem. A 2024</a> &middot; <a href="https://doi.org/10.1088/1361-648x/ad5b42">J. Phys.: Condens. Matter 2024</a> &middot; <a href="https://doi.org/10.1021/acsaem.3c01161">ACS Appl. Energy Mater. 2023</a></p></section>
+
+<section class="rtheme" id="r3"><h3>3. Explainable Artificial Intelligence</h3>
+<p>A correct prediction is useful, but the reason behind it is what guides the design of the next material.
+Explainable machine learning links a predicted property to the underlying chemistry. Bonding descriptors from
+crystal orbital Hamilton population analysis, lone-pair geometry and antibonding states describe thermal
+materials, and electronic descriptors describe catalysts. SHAP analysis and symbolic regression then turn the
+learned relations into compact design rules. Bonding descriptors raised the test R&sup2; of thermal-conductivity
+models from 0.47 to 0.85.</p>
+<img src="assets/img/res_bonding_descriptors.jpg" alt="Bonding descriptors and thermal conductivity">
+<p class="selpapers"><a href="https://doi.org/10.1021/acs.chemmater.4c02294">Chem. Mater. 2025</a> &middot; <a href="https://doi.org/10.1021/acsami.5c17211">ACS Appl. Mater. Interfaces 2025</a> &middot; <a href="https://doi.org/10.1002/smll.202513283">Small 2026</a> &middot; <a href="https://doi.org/10.1021/acs.jpclett.5c03890">J. Phys. Chem. Lett. 2026</a></p></section>
+
+<section class="rtheme" id="r4"><h3>4. Phonons and Thermal Transport</h3>
+<p>Lattice thermal conductivity controls both the recovery of waste heat and the cooling of electronic devices.
+It is computed from the phonon Boltzmann transport equation with three- and four-phonon scattering, together with
+the coherent (Wigner) term for complex crystals, while temperature-dependent effective potentials treat strong
+anharmonicity. This work identifies when four-phonon scattering matters and how lone pairs, rattling atoms and
+antibonding states lower thermal conductivity. At the other extreme, boron nitride, boron phosphide and group-13
+nitrides are studied as high-conductivity materials for thermal management.</p>
+<img src="assets/img/toc_P17.jpg" alt="Four-phonon scattering">
+<p class="selpapers"><a href="https://doi.org/10.1021/acsaem.3c01147">ACS Appl. Energy Mater. 2023</a> &middot; <a href="https://doi.org/10.1021/acsami.5c17211">ACS Appl. Mater. Interfaces 2025</a> &middot; <a href="https://doi.org/10.1088/1361-648x/ad5b42">J. Phys.: Condens. Matter 2024</a> &middot; <a href="https://doi.org/10.1021/acsaem.3c01161">ACS Appl. Energy Mater. 2023</a> &middot; <a href="https://doi.org/10.1039/d5ta08916f">J. Mater. Chem. A 2026</a></p></section>
+
+<section class="rtheme" id="r5"><h3>5. Thermoelectrics</h3>
+<p>Thermoelectric generators convert waste heat directly into electricity. Their efficiency requires low thermal
+conductivity together with good electronic transport. The materials studied include layered and low-dimensional
+chalcogenides such as &gamma;-GeSe, Li&ndash;Cu&ndash;Ti chalcotitanates and pnictogen chalcogenides. Phonon and
+electronic transport are combined to predict the figure of merit <i>zT</i>, and machine learning is used to choose
+dopants. Experimental studies of glass-like thermal conductivity, for example in Pb<sub>3</sub>Bi<sub>2</sub>S<sub>6</sub>,
+test the predictions.</p>
+<img src="assets/img/toc_P23.jpg" alt="Lone pairs and rattling in thermoelectrics">
+<p class="selpapers"><a href="https://doi.org/10.1021/acsaem.2c01600">ACS Appl. Energy Mater. 2022</a> &middot; <a href="https://doi.org/10.1039/d3ta07461g">J. Mater. Chem. A 2024</a> &middot; <a href="https://doi.org/10.1021/acs.jpclett.5c00952">J. Phys. Chem. Lett. 2025</a> &middot; <a href="https://doi.org/10.1021/acsaelm.4c00808">ACS Appl. Electron. Mater. 2024</a> &middot; 1 manuscript under review</p></section>
+
+<section class="rtheme" id="r6"><h3>6. Catalysis</h3>
+<p>Electrocatalysts are central to green hydrogen, fuel cells, metal&ndash;air batteries and the conversion of
+waste molecules. Their activity is analysed with the computational hydrogen electrode, activity volcanoes and
+scaling relations, and machine-learning models extend this analysis over large catalyst spaces. The work is
+organised below by catalyst system and by reaction.</p>
+<img src="assets/img/res_volcano.jpg" alt="Oxygen-reduction volcano from DFT and ML">
+<h4 class="group">By catalyst system</h4>
+<h4>Supported Pt clusters</h4><p>Graphene-supported Pt<sub>n</sub> clusters treated as statistical ensembles of low-energy isomers, in gas phase and implicit solvent; machine-learned descriptors for their scaling relations.</p><p class="selpapers"><a href="https://doi.org/10.1021/acs.jpcc.4c00376">J. Phys. Chem. C 2024</a> &middot; <a href="https://doi.org/10.1002/smll.202513283">Small 2026</a></p>
+<h4>Subnanometre and alloy nanoclusters</h4><p>High-throughput and machine-learning screening of transition-metal and alloy nanoclusters; activity depends on cluster size and shape.</p><p class="selpapers"><a href="https://doi.org/10.1039/d4nr02787f">Nanoscale 2024</a> &middot; <a href="https://doi.org/10.1021/acsami.4c14076">ACS Appl. Mater. Interfaces 2024</a> &middot; <a href="https://doi.org/10.1021/acsami.5c07198">ACS Appl. Mater. Interfaces 2025</a></p>
+<h4>Ligand-protected Cu and Au clusters</h4><p>Atomically precise Cu<sub>4</sub>, Cu<sub>14</sub> and Au<sub>4</sub>Cu<sub>2</sub> clusters; active sites and the effect of ligands on electronic structure.</p><p class="selpapers"><a href="https://doi.org/10.1021/acsnano.6c11603">ACS Nano 2026</a> &middot; <a href="https://doi.org/10.1021/acscatal.5c04431">ACS Catal. 2025</a> &middot; <a href="https://doi.org/10.1039/d3nr05445d">Nanoscale 2024</a> &middot; 1 manuscript under review</p>
+<h4>Dual-atom catalysts</h4><p>Electronic descriptors behind the scaling relations of dual-atom sites.</p><p class="selpapers"><a href="https://doi.org/10.1021/acs.jpclett.5c03890">J. Phys. Chem. Lett. 2026</a></p>
+<h4>Layered double hydroxides</h4><p>NiFe and NiMn layered double hydroxides doped with p-block metals, rare-earth ions or Ir, and In(OH)<sub>3</sub> heterostructures.</p><p class="selpapers"><a href="https://doi.org/10.1021/acs.chemmater.6c01912">Chem. Mater. 2026</a> &middot; <a href="https://doi.org/10.1002/adfm.202524906">Adv. Funct. Mater. 2025</a> &middot; <a href="https://doi.org/10.1002/smll.202500081">Small 2025</a> &middot; <a href="https://doi.org/10.1002/smtd.202401655">Small Methods 2024</a></p>
+<h4>Metal&ndash;organic frameworks and alloys</h4><p>An iron-based metal&ndash;organic framework for a Zn&ndash;ORR/CER battery, and medium-entropy alloys for a Zn&ndash;hydrazine battery.</p><p class="selpapers"><a href="https://doi.org/10.1039/d6ee00064a">Energy Environ. Sci. 2026</a> &middot; 1 manuscript under review</p>
+<h4 class="group">By reaction</h4>
+<h4>Oxygen reduction (ORR)</h4><p>Fuel-cell and metal&ndash;air cathodes.</p><p class="selpapers"><a href="https://doi.org/10.1021/acs.jpcc.4c00376">J. Phys. Chem. C 2024</a> &middot; <a href="https://doi.org/10.1021/acsami.4c14076">ACS Appl. Mater. Interfaces 2024</a> &middot; <a href="https://doi.org/10.1021/acsami.5c07198">ACS Appl. Mater. Interfaces 2025</a> &middot; <a href="https://doi.org/10.1039/d4nr02787f">Nanoscale 2024</a> &middot; <a href="https://doi.org/10.1021/acs.jpclett.5c03890">J. Phys. Chem. Lett. 2026</a> &middot; <a href="https://doi.org/10.1039/d6ee00064a">Energy Environ. Sci. 2026</a> &middot; 2 manuscripts under review</p>
+<h4>Oxygen evolution (OER) and overall water splitting</h4><p>Anodes for alkaline, seawater and anion-exchange-membrane (AEM) electrolysers.</p><p class="selpapers"><a href="https://doi.org/10.1039/d4nr02787f">Nanoscale 2024</a> &middot; <a href="https://doi.org/10.1021/acsami.5c07198">ACS Appl. Mater. Interfaces 2025</a> &middot; <a href="https://doi.org/10.1021/acs.jpclett.5c03890">J. Phys. Chem. Lett. 2026</a> &middot; <a href="https://doi.org/10.1021/acs.chemmater.6c01912">Chem. Mater. 2026</a> &middot; <a href="https://doi.org/10.1002/adfm.202524906">Adv. Funct. Mater. 2025</a> &middot; <a href="https://doi.org/10.1002/smll.202500081">Small 2025</a> &middot; <a href="https://doi.org/10.1002/smtd.202401655">Small Methods 2024</a></p>
+<h4>Hydrogen evolution (HER)</h4><p>Cathodes for green hydrogen.</p><p class="selpapers"><a href="https://doi.org/10.1039/d3nr05445d">Nanoscale 2024</a> &middot; <a href="https://doi.org/10.1002/smll.202500081">Small 2025</a> &middot; <a href="https://doi.org/10.1002/smtd.202401655">Small Methods 2024</a> &middot; 1 manuscript under review</p>
+<h4>Nitrate reduction (NO<sub>3</sub>RR)</h4><p>Selective conversion of nitrate to ammonia.</p><p class="selpapers"><a href="https://doi.org/10.1021/acscatal.5c04431">ACS Catal. 2025</a></p>
+<h4>CO<sub>2</sub> reduction (CO<sub>2</sub>RR)</h4><p>Conversion of CO<sub>2</sub> to methane.</p><p class="selpapers"><a href="https://doi.org/10.1021/acsnano.6c11603">ACS Nano 2026</a></p>
+<h4>Battery electrocatalysis</h4><p>Zn&ndash;ORR/CER and Zn&ndash;hydrazine batteries.</p><p class="selpapers"><a href="https://doi.org/10.1039/d6ee00064a">Energy Environ. Sci. 2026</a> &middot; 1 manuscript under review</p></section>
+
+<section class="rtheme" id="r7"><h3>7. Collaborations</h3>
+<p>Theory is most useful when it explains and guides experiment. Collaborations with experimental groups combine
+synthesis and measurement with computation: reaction mechanisms and free-energy diagrams, identification of active
+sites, and electronic-structure analysis (density of states, charge transfer and COHP bonding) that explains the
+measured activity.</p>
+<ul class="collab">
+<li><b>Dr. Subrata Kundu</b>, CSIR&ndash;Central Electrochemical Research Institute, Karaikudi. <i>System:</i> doped
+NiFe and NiMn layered double hydroxides, In(OH)<sub>3</sub>&ndash;NiFe heterostructures. <i>Application:</i> alkaline,
+seawater and AEM water electrolysis. <p class="selpapers"><a href="https://doi.org/10.1021/acs.chemmater.6c01912">Chem. Mater. 2026</a> &middot; <a href="https://doi.org/10.1002/adfm.202524906">Adv. Funct. Mater. 2025</a> &middot; <a href="https://doi.org/10.1002/smll.202500081">Small 2025</a> &middot; <a href="https://doi.org/10.1002/smtd.202401655">Small Methods 2024</a></p></li>
+<li><b>Dr. Tharamani C. Nagaiah</b>, IIT Ropar, with Dr. Dinesh Shetty, Khalifa University. <i>System:</i> iron-based
+metal&ndash;organic framework; medium-entropy alloys. <i>Application:</i> Zn&ndash;ORR/CER and Zn&ndash;hydrazine
+batteries. <p class="selpapers"><a href="https://doi.org/10.1039/d6ee00064a">Energy Environ. Sci. 2026</a> &middot; 1 manuscript under review</p></li>
+<li><b>Prof. Thalappil Pradeep</b>, IIT Madras, and <b>Dr. Soumyabrata Roy</b>. <i>System:</i> carborane-thiolated
+Cu<sub>4</sub> clusters. <i>Application:</i> CO<sub>2</sub> reduction to methane. <p class="selpapers"><a href="https://doi.org/10.1021/acsnano.6c11603">ACS Nano 2026</a></p></li>
+<li><b>Prof. Yuichi Negishi</b> and co-workers, Japan. <i>System:</i> Cu<sub>14</sub> nanoclusters.
+<i>Application:</i> selective nitrate reduction. <p class="selpapers"><a href="https://doi.org/10.1021/acscatal.5c04431">ACS Catal. 2025</a></p></li>
+<li><b>Prof. Amitava Patra</b> and co-workers. <i>System:</i> bimetallic Au<sub>4</sub>Cu<sub>2</sub> clusters.
+<i>Application:</i> hydrogen evolution. <p class="selpapers"><a href="https://doi.org/10.1039/d3nr05445d">Nanoscale 2024</a></p></li>
+<li><b>Dr. Ananya Baksi</b> and co-workers. <i>System:</i> a hydride-rich Cu<sub>14</sub> cluster.
+<i>Application:</i> room-temperature H<sub>2</sub> evolution. <span class="selpapers">Under review.</span></li>
+<li><b>Dr. Emmanuel Guilmeau</b> and co-workers, France. <i>System:</i> Pb<sub>3</sub>Bi<sub>2</sub>S<sub>6</sub>.
+<i>Application:</i> thermoelectrics, glass-like thermal conductivity. <span class="selpapers">Under review.</span></li>
+<li><b>Prof. K. V. Adarsh</b> and <b>Prof. Thalappil Pradeep</b>. <i>System:</i> a correlated material near the Mott
+transition. <i>Application:</i> charge-transfer control of electronic phases. <span class="selpapers">Under review.</span></li>
+</ul></section>
+</main>
+<footer><div class="wrap">Materialyze.AI Lab, Department of Materials Science and Engineering, National University of Singapore &middot; <a href="mailto:harpriyaminhas@nus.edu.sg">harpriyaminhas@nus.edu.sg</a> &middot; Last updated November 2026</div></footer>
+<script src="assets/site.js?v=20261110b"></script>
+<script></script>
+</body></html>

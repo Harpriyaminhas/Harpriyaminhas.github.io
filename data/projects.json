@@ -1,0 +1,9 @@
+[
+ {"name": "uMLIP_thermal_conductivity", "text": "Fine-tuned MatterSim and other universal ML interatomic potentials for lattice thermal conductivity, with bonding analysis.", "paper": "J. Mater. Chem. A 2026", "url": "https://github.com/Harpriyaminhas/uMLIP_thermal_conductivity"},
+ {"name": "Generative_Materials", "text": "Graph neural networks, cross-property transfer learning and CrystaLLM generation for discovering low-thermal-conductivity materials.", "paper": "ACS Appl. Mater. Interfaces 2026", "url": "https://github.com/Harpriyaminhas/Generative_Materials"},
+ {"name": "CHGNet_Thermal_condutivity", "text": "CHGNet for lattice thermal conductivity, with fine-tuning. Installable with <code>pip install chgnet_thermal_conductivity</code>.", "paper": "", "url": "https://github.com/Harpriyaminhas/CHGNet_Thermal_condutivity"},
+ {"name": "SCALP-Thermal-Conductivity", "text": "Bonding-descriptor and conventional-feature ML models for thermal conductivity of pnictogen chalcogenides.", "paper": "Chem. Mater. 2025", "url": "https://github.com/Harpriyaminhas/SCALP-Thermal-Conductivity"},
+ {"name": "AgSbTe2_data_extraction", "text": "Pipeline and dataset extracted from 173 papers on AgSbTe<sub>2</sub> thermoelectrics (Seebeck, conductivity, &kappa;, ZT, dopants) with DOI provenance, plus a viewer app.", "paper": "", "url": "https://github.com/Harpriyaminhas/AgSbTe2_data_extraction"},
+ {"name": "Li-Cu-Ti-Chalcotitanates-", "text": "ML potentials for rattling and bonding hierarchy in Li&ndash;Cu&ndash;Ti chalcotitanates.", "paper": "J. Mater. Chem. A 2024", "url": "https://github.com/Harpriyaminhas/Li-Cu-Ti-Chalcotitanates-"},
+ {"name": "dopant_TE", "text": "Dataset for ML-driven dopant design of thermoelectrics.", "paper": "ACS Appl. Electron. Mater. 2024", "url": "https://github.com/Harpriyaminhas/dopant_TE"}
+]

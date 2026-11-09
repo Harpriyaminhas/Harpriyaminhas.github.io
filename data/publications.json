@@ -1,0 +1,538 @@
+[
+ {
+  "num": 26,
+  "year": 2026,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Rahul Kumar Sharma, Biswarup Pathak, Cross-Property Transfer Learning and Generative Crystal Design for Accelerated Discovery of Low-Thermal-Conductivity Materials, <i>ACS Appl. Mater. Interfaces</i>, <b>2026</b>, 18, 50758&ndash;50771.",
+  "doi": "10.1021/acsami.6c10770",
+  "status": "published",
+  "thumb": "assets/img/toc_P26.jpg",
+  "selected": true,
+  "bibtex": "@article{Minhas_2026,\n  title={Cross-Property Transfer Learning and Generative Crystal Design for Accelerated Discovery of Low-Thermal-Conductivity Materials},\n  volume={18},\n  ISSN={1944-8252},\n  url={http://dx.doi.org/10.1021/acsami.6c10770},\n  DOI={10.1021/acsami.6c10770},\n  number={37},\n  journal={ACS Applied Materials \\& Interfaces},\n  publisher={American Chemical Society (ACS)},\n  author={Minhas,\n  Harpriya and Sharma,\n  Rahul Kumar and Pathak,\n  Biswarup},\n  year={2026},\n  month=Sept,\n  pages={50758–50771}\n}",
+  "tags": [
+   "machine learning",
+   "generative design",
+   "transfer learning",
+   "thermal transport",
+   "generative AI",
+   "thermoelectrics"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 25,
+  "year": 2026,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Rahul Kumar Sharma, Biswarup Pathak, Unravelling Lone Pair Induced Bonding Effects on Thermal Conductivity in Metal Chalcogenides using Machine Learning Potentials, <i>J. Mater. Chem. A</i>, <b>2026</b>, 14, 4776&ndash;4789.",
+  "doi": "10.1039/d5ta08916f",
+  "status": "published",
+  "thumb": "assets/img/toc_P25.jpg",
+  "selected": true,
+  "bibtex": "@article{Minhas_2026,\n  title={Unravelling lone pair induced bonding effects on thermal conductivity in metal chalcogenides using machine learning potentials},\n  volume={14},\n  ISSN={2050-7496},\n  url={http://dx.doi.org/10.1039/d5ta08916f},\n  DOI={10.1039/d5ta08916f},\n  number={8},\n  journal={Journal of Materials Chemistry A},\n  publisher={Royal Society of Chemistry (RSC)},\n  author={Minhas,\n  Harpriya and Sharma,\n  Rahul Kumar and Pathak,\n  Biswarup},\n  year={2026},\n  pages={4776–4789}\n}",
+  "tags": [
+   "machine learning",
+   "ML potentials",
+   "thermal transport",
+   "bonding",
+   "foundation potentials",
+   "bonding descriptors"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 24,
+  "year": 2025,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Rahul Kumar Sharma, Biswarup Pathak, Antibonding States Drive Anharmonicity and Low Thermal Conductivity in Edge-Sharing Metal Chalcogenides, <i>ACS Appl. Mater. Interfaces</i>, <b>2025</b>, 17, 60669&ndash;60681.",
+  "doi": "10.1021/acsami.5c17211",
+  "status": "published",
+  "thumb": "assets/img/toc_P24.jpg",
+  "selected": true,
+  "bibtex": "@article{Minhas_2025,\n  title={Antibonding States Drive Anharmonicity and Low Thermal Conductivity in Edge-Sharing Metal Chalcogenides},\n  volume={17},\n  ISSN={1944-8252},\n  url={http://dx.doi.org/10.1021/acsami.5c17211},\n  DOI={10.1021/acsami.5c17211},\n  number={44},\n  journal={ACS Applied Materials \\& Interfaces},\n  publisher={American Chemical Society (ACS)},\n  author={Minhas,\n  Harpriya and Sharma,\n  Rahul Kumar and Pathak,\n  Biswarup},\n  year={2025},\n  month=Oct,\n  pages={60669–60681}\n}",
+  "tags": [
+   "machine learning",
+   "thermal transport",
+   "bonding",
+   "ML potentials",
+   "bonding descriptors",
+   "thermoelectrics"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 23,
+  "year": 2025,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Rahul Kumar Sharma, Biswarup Pathak, Exploring Combined Stereochemically Active Lone Pair and Rattling Effects in Thermoelectrics with Machine Learning Potentials, <i>J. Phys. Chem. Lett.</i>, <b>2025</b>, 16, 5051&ndash;5061.",
+  "doi": "10.1021/acs.jpclett.5c00952",
+  "status": "published",
+  "thumb": "assets/img/toc_P23.jpg",
+  "selected": true,
+  "bibtex": "@article{Minhas_2025,\n  title={Exploring Combined Stereochemically Active Lone-Pair and Rattling Effects in Thermoelectrics with Machine Learning Potentials},\n  volume={16},\n  ISSN={1948-7185},\n  url={http://dx.doi.org/10.1021/acs.jpclett.5c00952},\n  DOI={10.1021/acs.jpclett.5c00952},\n  number={20},\n  journal={The Journal of Physical Chemistry Letters},\n  publisher={American Chemical Society (ACS)},\n  author={Minhas,\n  Harpriya and Sharma,\n  Rahul Kumar and Pathak,\n  Biswarup},\n  year={2025},\n  month=May,\n  pages={5051–5061}\n}",
+  "tags": [
+   "machine learning",
+   "ML potentials",
+   "thermoelectrics",
+   "bonding"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 22,
+  "year": 2025,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Milan Kumar Jena, Rahul Kumar Sharma, Biswarup Pathak, Insights into Thermal Conductivity of Pnictogen Chalcogenides: Machine Learning Stereochemically Active Lone Pairs and Hybridization, <i>Chem. Mater.</i>, <b>2025</b>, 37, 198&ndash;209.",
+  "doi": "10.1021/acs.chemmater.4c02294",
+  "status": "published",
+  "thumb": "assets/img/toc_P22.jpg",
+  "selected": true,
+  "bibtex": "@article{Minhas_2024,\n  title={Insights into Thermal Conductivity of Pnictogen Chalcogenides: Machine Learning Stereochemically Active Lone Pairs and Hybridization},\n  volume={37},\n  ISSN={1520-5002},\n  url={http://dx.doi.org/10.1021/acs.chemmater.4c02294},\n  DOI={10.1021/acs.chemmater.4c02294},\n  number={1},\n  journal={Chemistry of Materials},\n  publisher={American Chemical Society (ACS)},\n  author={Minhas,\n  Harpriya and Jena,\n  Milan Kumar and Sharma,\n  Rahul Kumar and Pathak,\n  Biswarup},\n  year={2024},\n  month=Dec,\n  pages={198–209}\n}",
+  "tags": [
+   "machine learning",
+   "thermal transport",
+   "bonding",
+   "bonding descriptors",
+   "interpretable ML"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 21,
+  "year": 2024,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Sandeep Das, Rahul Kumar Sharma, Biswarup Pathak, Rattling Induced Bonding Hierarchy in Li&ndash;Cu&ndash;Ti Chalcotitanates for Enhanced Thermoelectric Efficiency: A Machine Learning Potential Approach, <i>J. Mater. Chem. A</i>, <b>2024</b>, 12, 25988&ndash;25999.",
+  "doi": "10.1039/d3ta07461g",
+  "status": "published",
+  "thumb": "assets/img/toc_P21.jpg",
+  "selected": false,
+  "bibtex": "@article{Minhas_2024,\n  title={Rattling induced bonding hierarchy in Li–Cu–Ti chalcotitanates for enhanced thermoelectric efficiency: a machine learning potential approach},\n  volume={12},\n  ISSN={2050-7496},\n  url={http://dx.doi.org/10.1039/d3ta07461g},\n  DOI={10.1039/d3ta07461g},\n  number={38},\n  journal={Journal of Materials Chemistry A},\n  publisher={Royal Society of Chemistry (RSC)},\n  author={Minhas,\n  Harpriya and Das,\n  Sandeep and Sharma,\n  Rahul Kumar and Pathak,\n  Biswarup},\n  year={2024},\n  pages={25988–25999}\n}",
+  "tags": [
+   "machine learning",
+   "ML potentials",
+   "thermoelectrics",
+   "bonding"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 20,
+  "year": 2024,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Milan Kumar Jena, Rahul Kumar Sharma, Biswarup Pathak, Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency, <i>ACS Appl. Electron. Mater.</i>, <b>2024</b>, 6, 5815&ndash;5826.",
+  "doi": "10.1021/acsaelm.4c00808",
+  "status": "published",
+  "thumb": "assets/img/toc_P20.jpg",
+  "selected": false,
+  "bibtex": "@article{Minhas_2024,\n  title={Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency},\n  ISSN={2637-6113},\n  url={http://dx.doi.org/10.1021/acsaelm.4c00808},\n  DOI={10.1021/acsaelm.4c00808},\n  journal={ACS Applied Electronic Materials},\n  publisher={American Chemical Society (ACS)},\n  author={Minhas,\n  Harpriya and Jena,\n  Milan Kumar and Sharma,\n  Rahul Kumar and Pathak,\n  Biswarup},\n  year={2024},\n  month=July }",
+  "tags": [
+   "machine learning",
+   "generative design",
+   "thermoelectrics",
+   "inverse design"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 19,
+  "year": 2024,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Arnab Majumdar, Biswarup Pathak, Comparison of Lattice Thermal Conductivity using <i>ab initio</i> DFT, Machine Learning Interatomic Potentials, and Temperature Dependent Effective Potential: A Case Study of Hexagonal BN and BP Bilayer, <i>J. Phys.: Condens. Matter</i>, <b>2024</b>, 36, 395701.",
+  "doi": "10.1088/1361-648x/ad5b42",
+  "status": "published",
+  "thumb": "assets/img/toc_P19.jpg",
+  "selected": false,
+  "bibtex": "@article{Minhas_2024,\n  title={Comparison of lattice thermal conductivity using <i>ab-initio</i> DFT,\n  machine learning interatomic potentials,\n  and temperature dependent effective potential: a case study of hexagonal BN and BP bilayer},\n  volume={36},\n  ISSN={1361-648X},\n  url={http://dx.doi.org/10.1088/1361-648x/ad5b42},\n  DOI={10.1088/1361-648x/ad5b42},\n  number={39},\n  journal={Journal of Physics: Condensed Matter},\n  publisher={IOP Publishing},\n  author={Minhas,\n  Harpriya and Majumdar,\n  Arnab and Pathak,\n  Biswarup},\n  year={2024},\n  month=July,\n  pages={395701}\n}",
+  "tags": [
+   "machine learning",
+   "ML potentials",
+   "thermal transport",
+   "thermal management"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 18,
+  "year": 2023,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Arnab Majumdar, Biswarup Pathak, Advancing Thermal Management with Machine-Learning Potentials on Boron Nitride (BN) and Other Group 13 Nitrides, <i>ACS Appl. Energy Mater.</i>, <b>2023</b>, 6, 9851&ndash;9863.",
+  "doi": "10.1021/acsaem.3c01161",
+  "status": "published",
+  "thumb": "assets/img/toc_P18.jpg",
+  "selected": false,
+  "bibtex": "@article{Minhas_2023,\n  title={Advancing Thermal Management with Machine-Learning Potentials on Boron Nitride (BN) and Other Group 13 Nitrides},\n  volume={6},\n  ISSN={2574-0962},\n  url={http://dx.doi.org/10.1021/acsaem.3c01161},\n  DOI={10.1021/acsaem.3c01161},\n  number={19},\n  journal={ACS Applied Energy Materials},\n  publisher={American Chemical Society (ACS)},\n  author={Minhas,\n  Harpriya and Majumdar,\n  Arnab and Pathak,\n  Biswarup},\n  year={2023},\n  month=Aug,\n  pages={9851–9863}\n}",
+  "tags": [
+   "machine learning",
+   "ML potentials",
+   "thermal transport",
+   "thermal management"
+  ],
+  "areas": [
+   "ml",
+   "thermal"
+  ]
+ },
+ {
+  "num": 17,
+  "year": 2023,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Sandeep Das, Biswarup Pathak, Importance of Four-Phonon Interactions in Lattice Thermal Conductivity and Thermoelectrics: A Case Study, <i>ACS Appl. Energy Mater.</i>, <b>2023</b>, 6, 7305&ndash;7316.",
+  "doi": "10.1021/acsaem.3c01147",
+  "status": "published",
+  "thumb": "assets/img/toc_P17.jpg",
+  "selected": false,
+  "bibtex": "@article{Minhas_2023,\n  title={Importance of Four-Phonon Interactions in Lattice Thermal Conductivity and Thermoelectrics: A Case Study},\n  volume={6},\n  ISSN={2574-0962},\n  url={http://dx.doi.org/10.1021/acsaem.3c01147},\n  DOI={10.1021/acsaem.3c01147},\n  number={13},\n  journal={ACS Applied Energy Materials},\n  publisher={American Chemical Society (ACS)},\n  author={Minhas,\n  Harpriya and Das,\n  Sandeep and Pathak,\n  Biswarup},\n  year={2023},\n  month=June,\n  pages={7305–7316}\n}",
+  "tags": [
+   "thermal transport",
+   "thermoelectrics",
+   "four-phonon scattering"
+  ],
+  "areas": [
+   "thermal"
+  ]
+ },
+ {
+  "num": 16,
+  "year": 2022,
+  "category": "first",
+  "html": "<b>Harpriya Minhas</b>, Sandeep Das, Biswarup Pathak, Ultralow Thermal Conductivity and High Thermoelectric Performance of &gamma;-GeSe: Effects of Dimensionality and Thickness, <i>ACS Appl. Energy Mater.</i>, <b>2022</b>, 5, 9914&ndash;9928.",
+  "doi": "10.1021/acsaem.2c01600",
+  "status": "published",
+  "thumb": "assets/img/toc_P16.jpg",
+  "selected": false,
+  "bibtex": "@article{Minhas_2022,\n  title={Ultralow Thermal Conductivity and High Thermoelectric Performance of γ-GeSe: Effects of Dimensionality and Thickness},\n  volume={5},\n  ISSN={2574-0962},\n  url={http://dx.doi.org/10.1021/acsaem.2c01600},\n  DOI={10.1021/acsaem.2c01600},\n  number={8},\n  journal={ACS Applied Energy Materials},\n  publisher={American Chemical Society (ACS)},\n  author={Minhas,\n  Harpriya and Das,\n  Sandeep and Pathak,\n  Biswarup},\n  year={2022},\n  month=Aug,\n  pages={9914–9928}\n}",
+  "tags": [
+   "thermal transport",
+   "thermoelectrics",
+   "2D materials"
+  ],
+  "areas": [
+   "thermal"
+  ]
+ },
+ {
+  "num": 15,
+  "year": 2026,
+  "category": "coauthor",
+  "html": "Sarthak Maity, Rahul Kumar Sharma, <b>Harpriya Minhas</b>, Biswarup Pathak, Deciphering Key Descriptors for Scaling Relationships in Graphene-Supported Pt<sub>n</sub> Clusters via Machine Learning, <i>Small</i>, <b>2026</b>, e13283.",
+  "doi": "10.1002/smll.202513283",
+  "status": "published",
+  "thumb": "assets/img/toc_P15.jpg",
+  "selected": false,
+  "bibtex": "@article{Maity_2026,\n  title={Deciphering Key Descriptors for Scaling Relationships in Graphene‐Supported Pt <sub>n</sub> Clusters via Machine Learning},\n  volume={22},\n  ISSN={1613-6829},\n  url={http://dx.doi.org/10.1002/smll.202513283},\n  DOI={10.1002/smll.202513283},\n  number={18},\n  journal={Small},\n  publisher={Wiley},\n  author={Maity,\n  Sarthak and Sharma,\n  Rahul Kumar and Minhas,\n  Harpriya and Pathak,\n  Biswarup},\n  year={2026},\n  month=Jan }",
+  "tags": [
+   "machine learning",
+   "electrocatalysis",
+   "nanoclusters",
+   "ORR/OER",
+   "scaling relations"
+  ],
+  "areas": [
+   "ml",
+   "catalysis"
+  ]
+ },
+ {
+  "num": 14,
+  "year": 2026,
+  "category": "coauthor",
+  "html": "Rahul Kumar Sharma, <b>Harpriya Minhas</b>, Biswarup Pathak, Unraveling Scaling Relationships in Dual-Atom Catalysts with Electronic Descriptors: A Machine Learning Investigation for OER/ORR Activity, <i>J. Phys. Chem. Lett.</i>, <b>2026</b>, 17, 2689&ndash;2701.",
+  "doi": "10.1021/acs.jpclett.5c03890",
+  "status": "published",
+  "thumb": "assets/img/toc_P14.jpg",
+  "selected": false,
+  "bibtex": "@article{Sharma_2026,\n  title={Unraveling Scaling Relationships in Dual-Atom Catalysts with Electronic Descriptors: A Machine Learning Investigation for OER/ORR Activity},\n  volume={17},\n  ISSN={1948-7185},\n  url={http://dx.doi.org/10.1021/acs.jpclett.5c03890},\n  DOI={10.1021/acs.jpclett.5c03890},\n  number={9},\n  journal={The Journal of Physical Chemistry Letters},\n  publisher={American Chemical Society (ACS)},\n  author={Sharma,\n  Rahul Kumar and Minhas,\n  Harpriya and Pathak,\n  Biswarup},\n  year={2026},\n  month=Feb,\n  pages={2689–2701}\n}",
+  "tags": [
+   "machine learning",
+   "electrocatalysis",
+   "single/dual-atom",
+   "ORR/OER",
+   "dual-atom catalysts"
+  ],
+  "areas": [
+   "ml",
+   "catalysis"
+  ]
+ },
+ {
+  "num": 13,
+  "year": 2025,
+  "category": "coauthor",
+  "html": "Rahul Kumar Sharma, <b>Harpriya Minhas</b>, Biswarup Pathak, Machine Learning-Guided Discovery of Alloy Nanoclusters: Steering Morphology-Based Activity and Selectivity Relationships in Bifunctional Electrocatalysts, <i>ACS Appl. Mater. Interfaces</i>, <b>2025</b>, 17, 40488&ndash;40498.",
+  "doi": "10.1021/acsami.5c07198",
+  "status": "published",
+  "thumb": "assets/img/toc_P13.jpg",
+  "selected": false,
+  "bibtex": "@article{Sharma_2025,\n  title={Machine Learning-Guided Discovery of Alloy Nanoclusters: Steering Morphology-Based Activity and Selectivity Relationships in Bifunctional Electrocatalysts},\n  volume={17},\n  ISSN={1944-8252},\n  url={http://dx.doi.org/10.1021/acsami.5c07198},\n  DOI={10.1021/acsami.5c07198},\n  number={28},\n  journal={ACS Applied Materials \\& Interfaces},\n  publisher={American Chemical Society (ACS)},\n  author={Sharma,\n  Rahul Kumar and Minhas,\n  Harpriya and Pathak,\n  Biswarup},\n  year={2025},\n  month=July,\n  pages={40488–40498}\n}",
+  "tags": [
+   "machine learning",
+   "electrocatalysis",
+   "nanoclusters",
+   "ORR/OER",
+   "alloy nanoclusters"
+  ],
+  "areas": [
+   "ml",
+   "catalysis"
+  ]
+ },
+ {
+  "num": 12,
+  "year": 2024,
+  "category": "coauthor",
+  "html": "Rahul Kumar Sharma, Milan Kumar Jena, <b>Harpriya Minhas</b>, Biswarup Pathak, Machine-Learning-Assisted Screening of Nanocluster Electrocatalysts: Mapping and Reshaping the Activity Volcano for the Oxygen Reduction Reaction, <i>ACS Appl. Mater. Interfaces</i>, <b>2024</b>, 16, 63589&ndash;63601.",
+  "doi": "10.1021/acsami.4c14076",
+  "status": "published",
+  "thumb": "assets/img/toc_P12.jpg",
+  "selected": false,
+  "bibtex": "@article{Sharma_2024,\n  title={Machine-Learning-Assisted Screening of Nanocluster Electrocatalysts: Mapping and Reshaping the Activity Volcano for the Oxygen Reduction Reaction},\n  volume={16},\n  ISSN={1944-8252},\n  url={http://dx.doi.org/10.1021/acsami.4c14076},\n  DOI={10.1021/acsami.4c14076},\n  number={46},\n  journal={ACS Applied Materials \\& Interfaces},\n  publisher={American Chemical Society (ACS)},\n  author={Sharma,\n  Rahul Kumar and Jena,\n  Milan Kumar and Minhas,\n  Harpriya and Pathak,\n  Biswarup},\n  year={2024},\n  month=Nov,\n  pages={63589–63601}\n}",
+  "tags": [
+   "machine learning",
+   "electrocatalysis",
+   "nanoclusters",
+   "ORR",
+   "activity volcano"
+  ],
+  "areas": [
+   "ml",
+   "catalysis"
+  ]
+ },
+ {
+  "num": 11,
+  "year": 2024,
+  "category": "coauthor",
+  "html": "Rahul Kumar Sharma, <b>Harpriya Minhas</b>, Biswarup Pathak, High-Throughput Screening of Bifunctional Catalysts for Oxygen Evolution/Reduction Reaction at the Subnanometer Regime, <i>Nanoscale</i>, <b>2024</b>, 16, 21340&ndash;21350.",
+  "doi": "10.1039/d4nr02787f",
+  "status": "published",
+  "thumb": "assets/img/toc_P11.jpg",
+  "selected": false,
+  "bibtex": "@article{Sharma_2024,\n  title={High-throughput screening of bifunctional catalysts for oxygen evolution/reduction reaction at the subnanometer regime},\n  volume={16},\n  ISSN={2040-3372},\n  url={http://dx.doi.org/10.1039/d4nr02787f},\n  DOI={10.1039/d4nr02787f},\n  number={46},\n  journal={Nanoscale},\n  publisher={Royal Society of Chemistry (RSC)},\n  author={Sharma,\n  Rahul Kumar and Minhas,\n  Harpriya and Pathak,\n  Biswarup},\n  year={2024},\n  pages={21340–21350}\n}",
+  "tags": [
+   "machine learning",
+   "electrocatalysis",
+   "nanoclusters",
+   "ORR/OER",
+   "high-throughput screening"
+  ],
+  "areas": [
+   "ml",
+   "catalysis"
+  ]
+ },
+ {
+  "num": 10,
+  "year": 2024,
+  "category": "coauthor",
+  "html": "Rahul Kumar Sharma, <b>Harpriya Minhas</b>, Biswarup Pathak, Investigating the Metastability-Triggered Reactivity of Pt<sub>7,8</sub> Clusters on Graphene: Unraveling Statistical Ensemble Representation for ORR in Gas and Implicit Solvent Phases, <i>J. Phys. Chem. C</i>, <b>2024</b>, 128, 7504&ndash;7517.",
+  "doi": "10.1021/acs.jpcc.4c00376",
+  "status": "published",
+  "thumb": "assets/img/toc_P10.jpg",
+  "selected": false,
+  "bibtex": "@article{Sharma_2024,\n  title={Investigating the Metastability-Triggered Reactivity of Pt<sub>7,8</sub> Clusters on Graphene: Unraveling Statistical Ensemble Representation for ORR in Gas and Implicit Solvent Phases},\n  volume={128},\n  ISSN={1932-7455},\n  url={http://dx.doi.org/10.1021/acs.jpcc.4c00376},\n  DOI={10.1021/acs.jpcc.4c00376},\n  number={18},\n  journal={The Journal of Physical Chemistry C},\n  publisher={American Chemical Society (ACS)},\n  author={Sharma,\n  Rahul Kumar and Minhas,\n  Harpriya and Pathak,\n  Biswarup},\n  year={2024},\n  month=Mar,\n  pages={7504–7517}\n}",
+  "tags": [
+   "electrocatalysis",
+   "nanoclusters",
+   "ORR",
+   "statistical ensembles"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 9,
+  "year": 2026,
+  "category": "collab",
+  "html": "Sreenivasan Nagappan,<sup>#</sup> <b>Harpriya Minhas</b>,<sup>#</sup> Suprobhat Singha Roy,<sup>#</sup> Seiji Yamazoe, Aditi De, Prasita Mazumder, Soichi Kikkawa, Asha K. Satheesan, Hariharan N. Dhandapani, Arun Karmakar, Biswarup Pathak, Subrata Kundu, Orbital Coupling Engineering through p-Block Metal Doping in NiFe Layered Double Hydroxides for Enhanced Anion Exchange Membrane Water Electrolysis, <i>Chem. Mater.</i>, <b>2026</b>, Article ASAP.",
+  "doi": "10.1021/acs.chemmater.6c01912",
+  "status": "published",
+  "thumb": "assets/img/toc_P9.jpg",
+  "selected": false,
+  "tags": [
+   "electrocatalysis",
+   "LDH",
+   "water electrolysis",
+   "AEM electrolyser"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 8,
+  "year": 2026,
+  "category": "collab",
+  "html": "Juhina Nisar, Arijit Jana, Zhengyuan Li, <b>Harpriya Minhas</b>, Astrid Campos Mata, Jithu Raj, Yu-Cheng Liu, Tomas Base, Sung-Fu Hung, Biswarup Pathak, Jingjie Wu, Thalappil Pradeep, Soumyabrata Roy, Electronic Structure Modulation in Isomeric Carborane-Thiolated Cu<sub>4</sub> Nanoclusters Boosts CO<sub>2</sub> Electroreduction to Methane, <i>ACS Nano</i>, <b>2026</b>, 20, 28487&ndash;28502.",
+  "doi": "10.1021/acsnano.6c11603",
+  "status": "published",
+  "thumb": "assets/img/toc_P8.jpg",
+  "selected": false,
+  "tags": [
+   "electrocatalysis",
+   "nanoclusters",
+   "CO2RR"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 7,
+  "year": 2026,
+  "category": "collab",
+  "html": "Sukhjot Kaur, Safa Gaber, Kalpana Garg, Abdul Khayum Mohammed, Ankur Bordoloi, <b>Harpriya Minhas</b>, Biswarup Pathak, Dinesh Shetty, Tharamani C. Nagaiah, Tailoring an Iron-Based Metal&ndash;Organic Framework for a Zn-ORR/CER Battery, <i>Energy Environ. Sci.</i>, <b>2026</b>, 19, 4016&ndash;4027.",
+  "doi": "10.1039/d6ee00064a",
+  "status": "published",
+  "thumb": "assets/img/toc_P7.jpg",
+  "selected": true,
+  "bibtex": "@article{Kaur_2026,\n  title={Tailoring an iron-based metal–organic framework for a Zn-ORR/CER battery},\n  volume={19},\n  ISSN={1754-5706},\n  url={http://dx.doi.org/10.1039/d6ee00064a},\n  DOI={10.1039/d6ee00064a},\n  number={12},\n  journal={Energy \\& Environmental Science},\n  publisher={Royal Society of Chemistry (RSC)},\n  author={Kaur,\n  Sukhjot and Gaber,\n  Safa and Garg,\n  Kalpana and Mohammed,\n  Abdul Khayum and Bordoloi,\n  Ankur and Minhas,\n  Harpriya and Pathak,\n  Biswarup and Shetty,\n  Dinesh and Nagaiah,\n  Tharamani C.},\n  year={2026},\n  pages={4016–4027}\n}",
+  "tags": [
+   "electrocatalysis",
+   "batteries",
+   "metal-air battery",
+   "ORR"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 6,
+  "year": 2025,
+  "category": "collab",
+  "html": "Shiho Tomihari,<sup>#</sup> Maho Kamiyama,<sup>#</sup> <b>Harpriya Minhas</b>,<sup>#</sup> Tokuhisa Kawawaki, Kana Takemae, Yamato Shingyouchi, Ziyi Chen, Biswarup Pathak, Yuichi Negishi, Exposure of Active Metal Sites on Cu<sub>14</sub> Nanoclusters for Highly Selective Electrocatalytic Nitrate Reduction, <i>ACS Catal.</i>, <b>2025</b>, 15, 20853&ndash;20863.",
+  "doi": "10.1021/acscatal.5c04431",
+  "status": "published",
+  "thumb": "assets/img/toc_P6.jpg",
+  "selected": false,
+  "bibtex": "@article{Tomihari_2025,\n  title={Exposure of Active Metal Sites on Cu <sub>14</sub> Nanoclusters for Highly Selective Electrocatalytic Nitrate Reduction},\n  volume={15},\n  ISSN={2155-5435},\n  url={http://dx.doi.org/10.1021/acscatal.5c04431},\n  DOI={10.1021/acscatal.5c04431},\n  number={24},\n  journal={ACS Catalysis},\n  publisher={American Chemical Society (ACS)},\n  author={Tomihari,\n  Shiho and Kamiyama,\n  Maho and Minhas,\n  Harpriya and Kawawaki,\n  Tokuhisa and Takemae,\n  Kana and Shingyouchi,\n  Yamato and Chen,\n  Ziyi and Pathak,\n  Biswarup and Negishi,\n  Yuichi},\n  year={2025},\n  month=Dec,\n  pages={20853–20863}\n}",
+  "tags": [
+   "electrocatalysis",
+   "nanoclusters",
+   "NO3RR"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 5,
+  "year": 2025,
+  "category": "collab",
+  "html": "Suprobhat Singha Roy, <b>Harpriya Minhas</b>, Priyadharshini Lakshminarayanan, Kirti KM, Sadashiv Sahu, Biswarup Pathak, Subrata Kundu, Vertically Grown Face-to-Face Nano-Assembly of In(OH)<sub>3</sub> and NiFe-LDH Enables Interfacial Charge Separation for Enhanced Alkaline and Seawater Electrolysis, <i>Adv. Funct. Mater.</i>, <b>2025</b>, e24906.",
+  "doi": "10.1002/adfm.202524906",
+  "status": "published",
+  "thumb": "assets/img/toc_P5.jpg",
+  "selected": false,
+  "bibtex": "@article{Singha_Roy_2025,\n  title={Vertically Grown Face‐To‐Face Nano‐Assembly of In(OH) <sub>3</sub> and NiFe‐LDH Enables Interfacial Charge Separation for Enhanced Alkaline and Seawater Electrolysis},\n  volume={36},\n  ISSN={1616-3028},\n  url={http://dx.doi.org/10.1002/adfm.202524906},\n  DOI={10.1002/adfm.202524906},\n  number={24},\n  journal={Advanced Functional Materials},\n  publisher={Wiley},\n  author={Singha Roy,\n  Suprobhat and Minhas,\n  Harpriya and Lakshminarayanan,\n  Priyadharshini and KM,\n  Kirti and Sahu,\n  Sadashiv and Pathak,\n  Biswarup and Kundu,\n  Subrata},\n  year={2025},\n  month=Nov }",
+  "tags": [
+   "electrocatalysis",
+   "LDH",
+   "water electrolysis",
+   "seawater"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 4,
+  "year": 2025,
+  "category": "collab",
+  "html": "Sreenivasan Nagappan, <b>Harpriya Minhas</b>, Rajashri R. Urkude, Biswarup Pathak, Subrata Kundu, Harnessing the Synergistic Effects of Ir Co-Decorated NiMn-LDH: A Multi-Analytical Approach to Boost Electrocatalytic Overall Water Splitting Activity in Alkaline Condition, <i>Small</i>, <b>2025</b>, 21, 2500081.",
+  "doi": "10.1002/smll.202500081",
+  "status": "published",
+  "thumb": "assets/img/toc_P4.jpg",
+  "selected": false,
+  "bibtex": "@article{Nagappan_2025,\n  title={Harnessing the Synergistic Effects of Ir Co‐Decorated NiMn‐LDH: a Multi‐Analytical Approach to Boost Electrocatalytic Overall Water Splitting Activity in Alkaline Condition},\n  volume={21},\n  ISSN={1613-6829},\n  url={http://dx.doi.org/10.1002/smll.202500081},\n  DOI={10.1002/smll.202500081},\n  number={14},\n  journal={Small},\n  publisher={Wiley},\n  author={Nagappan,\n  Sreenivasan and Minhas,\n  Harpriya and Urkude,\n  Rajashri R. and Pathak,\n  Biswarup and Kundu,\n  Subrata},\n  year={2025},\n  month=Mar }",
+  "tags": [
+   "electrocatalysis",
+   "LDH",
+   "water electrolysis"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 3,
+  "year": 2024,
+  "category": "collab",
+  "html": "Sreenivasan Nagappan, <b>Harpriya Minhas</b>, Hemalatha Gurusamy, Arun Karmakar, S. Ravichandran, Biswarup Pathak, Subrata Kundu, Unraveling the Synergistic Role of Sm<sup>3+</sup> Doped NiFe-LDH as High-Performance Electrocatalysts for Improved Anion Exchange Membrane and Water Splitting Applications, <i>Small Methods</i>, <b>2024</b>, 2401655.",
+  "doi": "10.1002/smtd.202401655",
+  "status": "published",
+  "thumb": "assets/img/toc_P3.jpg",
+  "selected": false,
+  "bibtex": "@article{Nagappan_2024,\n  title={Unraveling the Synergistic Role of Sm <sup> <b>3+</b> </sup> Doped NiFe‐LDH as High‐Performance Electrocatalysts for Improved Anion Exchange Membrane and Water Splitting Applications},\n  volume={9},\n  ISSN={2366-9608},\n  url={http://dx.doi.org/10.1002/smtd.202401655},\n  DOI={10.1002/smtd.202401655},\n  number={5},\n  journal={Small Methods},\n  publisher={Wiley},\n  author={Nagappan,\n  Sreenivasan and Gurusamy,\n  Hemalatha and Minhas,\n  Harpriya and Karmakar,\n  Arun and Ravichandran,\n  S. and Pathak,\n  Biswarup and Kundu,\n  Subrata},\n  year={2024},\n  month=Dec }",
+  "tags": [
+   "electrocatalysis",
+   "LDH",
+   "water electrolysis",
+   "AEM electrolyser"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 2,
+  "year": 2024,
+  "category": "collab",
+  "html": "Aarti Devi, <b>Harpriya Minhas</b>, Lipipuspa Sahoo, Saniya Gratious, Amitabha Das, Sukhendu Mandal, Biswarup Pathak, Amitava Patra, Insights of the Efficient Hydrogen Evolution Reaction Performance in Bimetallic Au<sub>4</sub>Cu<sub>2</sub> Nanoclusters, <i>Nanoscale</i>, <b>2024</b>, 16, 1758&ndash;1769.",
+  "doi": "10.1039/d3nr05445d",
+  "status": "published",
+  "thumb": "assets/img/toc_P2.jpg",
+  "selected": false,
+  "bibtex": "@article{Devi_2024,\n  title={Insights of the efficient hydrogen evolution reaction performance in bimetallic Au <sub>4</sub> Cu <sub>2</sub> nanoclusters},\n  volume={16},\n  ISSN={2040-3372},\n  url={http://dx.doi.org/10.1039/d3nr05445d},\n  DOI={10.1039/d3nr05445d},\n  number={4},\n  journal={Nanoscale},\n  publisher={Royal Society of Chemistry (RSC)},\n  author={Devi,\n  Aarti and Minhas,\n  Harpriya and Sahoo,\n  Lipipuspa and Rashi and Gratious,\n  Saniya and Das,\n  Amitabha and Mandal,\n  Sukhendu and Pathak,\n  Biswarup and Patra,\n  Amitava},\n  year={2024},\n  pages={1758–1769}\n}",
+  "tags": [
+   "electrocatalysis",
+   "nanoclusters",
+   "HER"
+  ],
+  "areas": [
+   "catalysis"
+  ]
+ },
+ {
+  "num": 1,
+  "year": 2019,
+  "category": "msc",
+  "html": "<b>Harpriya Minhas</b>, Deepak Kumar, Ashish Kumar, Preparation, Characterization and Electromagnetic Interference Shielding Effect of Ni-Doped ZnO Thin Films, <i>Mater. Res. Express</i>, <b>2019</b>, 6, 105049.",
+  "doi": "10.1088/2053-1591/ab381e",
+  "status": "published",
+  "thumb": "assets/img/toc_P1.jpg",
+  "selected": false,
+  "bibtex": "@article{Minhas_2019,\n  title={Preparation,\n  characterization and electromagnetic interference shielding effect of Ni-doped ZnO thin films},\n  volume={6},\n  ISSN={2053-1591},\n  url={http://dx.doi.org/10.1088/2053-1591/ab381e},\n  DOI={10.1088/2053-1591/ab381e},\n  number={10},\n  journal={Materials Research Express},\n  publisher={IOP Publishing},\n  author={Minhas,\n  Harpriya and Kumar,\n  Deepak and Kumar,\n  Ashish},\n  year={2019},\n  month=Aug,\n  pages={105049}\n}",
+  "tags": [
+   "thin films",
+   "EMI shielding"
+  ],
+  "areas": [
+   "films"
+  ]
+ }
+]
